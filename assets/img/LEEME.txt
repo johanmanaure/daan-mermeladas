@@ -1,0 +1,5 @@
+Fotos usadas por la página (PNG con fondo transparente):
+  maracuya.png, lulo.png, granadilla.png  -> frascos
+  logo.png                                -> logo DAAN del menú
+
+Si una foto de frasco no existe, la página muestra un frasco dibujado con CSS.
